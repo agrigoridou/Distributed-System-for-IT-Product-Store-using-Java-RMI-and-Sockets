@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="User Management Server:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/User_Management_Server_jar</output-path>
+    <root id="archive" name="User Management Server.jar">
+      <element id="module-output" name="User Management Server" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Warehouse Management Server/out/artifacts/Warehouse_Management_Server_jar/Warehouse Management Server.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
