@@ -40,10 +40,24 @@ This project is a distributed system designed to support an online store for IT 
 ### Failed Connection Scenario
 - When the user enters incorrect credentials or there are network issues, an error message is displayed, informing the user of the connection failure.
 
+  
+![Screenshot 2024-06-09 214338](https://github.com/user-attachments/assets/7ecaa33e-9539-47d8-bc25-a828fca21d86)
+
+
 ### Successful Connection Scenario for Regular User
 - After successful login, the user can choose the options "Search Product" and "Purchase Product."
   - **Search Product**: The user enters search criteria, and the application displays the matching products.
+  
+ ![Screenshot 2024-06-09 210025](https://github.com/user-attachments/assets/d309f8b4-c0a5-4581-8b58-6924de5c2bbe)
+
+![Screenshot 2024-06-09 210039](https://github.com/user-attachments/assets/0f321081-6bbc-4f2c-a7bf-1e7b937e3089)
+
+
   - **Purchase Product**: The user enters the product code and quantity, confirming the purchase. Success or failure messages are displayed accordingly.
+
+![Screenshot 2024-06-09 211240](https://github.com/user-attachments/assets/417050b4-3f58-47d0-b7ea-efe6c7b77f1a)
+
+![Screenshot 2024-06-09 211259](https://github.com/user-attachments/assets/189b6362-a4e8-4ecd-84d2-36cfedc2c711)
 
 ## System Functionality
 
