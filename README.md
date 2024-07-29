@@ -20,6 +20,7 @@ This project is a distributed system designed to support an online store for IT 
 
 ## Communication Protocol
 
+
 ### User Authentication
 - **authenticate(username, password)**: The client sends authentication requests to the User Management Server, which responds with a boolean indicating the success or failure of the authentication.
 
