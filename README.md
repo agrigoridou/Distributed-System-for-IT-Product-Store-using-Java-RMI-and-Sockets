@@ -5,6 +5,7 @@ This project is a distributed system designed to support an online store for IT 
 
 ## Design Decisions and Assumptions
 
+
 ### Technologies
 - **Java RMI**: Used for Remote Method Invocation (RMI), enabling communication between applications running on different virtual machines.
 - **Swing API**: Used for creating the graphical user interface (GUI) of the application, providing a user-friendly and interactive experience.
